@@ -10,9 +10,9 @@ const Navbar = () => {
       <div className="container mx-auto flex items-center justify-between py-4 px-4">
         <div className="flex items-center gap-2">
           <div className="w-9 h-9 rounded-lg bg-primary flex items-center justify-center">
-            <span className="text-primary-foreground font-bold text-lg">S</span>
+            <span className="text-primary-foreground font-bold text-lg">R</span>
           </div>
-          <span className="text-xl font-bold text-foreground">Selfeb</span>
+          <span className="text-xl font-bold text-foreground">Rocket Grow</span>
         </div>
 
         <div className="hidden md:flex items-center gap-8">

@@ -6,11 +6,11 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <div className="w-8 h-8 rounded-lg bg-primary flex items-center justify-center">
-                <span className="text-primary-foreground font-bold">S</span>
+                <span className="text-primary-foreground font-bold">R</span>
               </div>
-              <span className="text-lg font-bold text-background">Selfeb</span>
+              <span className="text-lg font-bold text-background">Rocket Grow</span>
             </div>
-            <p className="text-sm">আপনার ই-কমার্স ব্যবসার কমপ্লিট অটোমেশন প্ল্যাটফর্ম।</p>
+            <p className="text-sm">Rocket Grow LLC — আপনার ই-কমার্স ব্যবসার কমপ্লিট অটোমেশন প্ল্যাটফর্ম।</p>
           </div>
 
           <div>
@@ -41,7 +41,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-background/10 mt-10 pt-6 text-center text-sm">
-          © 2026 Selfeb. All rights reserved.
+          © 2026 Rocket Grow LLC. All rights reserved.
         </div>
       </div>
     </footer>

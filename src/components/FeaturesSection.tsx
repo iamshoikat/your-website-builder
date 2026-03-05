@@ -40,7 +40,7 @@ const FeaturesSection = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-14">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-3">
-            কেন সেলফেব সেরা?
+            কেন Rocket Grow সেরা?
           </h2>
           <p className="text-muted-foreground max-w-xl mx-auto">
             ই-কমার্স ব্যবসার জন্য অত্যাধুনিক সব ফিচার
