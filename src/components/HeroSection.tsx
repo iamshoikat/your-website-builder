@@ -26,7 +26,7 @@ const HeroSection = () => {
             </h1>
 
             <p className="text-lg text-muted-foreground mb-8 max-w-lg">
-              সেলফেব শুধু একটি ওয়েবসাইট বিল্ডার নয়, এটি আপনার ব্যবসার পূর্ণাঙ্গ অপারেটিং সিস্টেম। ইনভেন্টরি, লজিস্টিক্স, ফেসবুক অ্যাডস ট্র্যাকিং — সব এক জায়গায়।
+              Rocket Grow শুধু একটি ওয়েবসাইট বিল্ডার নয়, এটি আপনার ব্যবসার পূর্ণাঙ্গ অপারেটিং সিস্টেম। ইনভেন্টরি, লজিস্টিক্স, ফেসবুক অ্যাডস ট্র্যাকিং — সব এক জায়গায়।
             </p>
 
             <div className="flex flex-wrap gap-4 mb-6">
@@ -59,7 +59,7 @@ const HeroSection = () => {
             <div className="rounded-2xl overflow-hidden card-elevated">
               <img
                 src={dashboardImg}
-                alt="Selfeb Dashboard Preview"
+                alt="Rocket Grow Dashboard Preview"
                 className="w-full h-auto"
               />
             </div>
